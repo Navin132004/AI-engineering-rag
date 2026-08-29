@@ -1,0 +1,27 @@
+%%writefile /content/ai_engineering_docs/.github/workflows/rag-eval.yml
+name: RAG Evaluation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run RAG evaluation
+        run: python eval.py

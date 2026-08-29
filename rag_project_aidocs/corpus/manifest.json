@@ -1,0 +1,1574 @@
+[
+  {
+    "path": "langchain/voice-agent.mdx",
+    "title": "Build a voice agent with LangChain",
+    "word_count": 3098,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/runtime.mdx",
+    "title": "Runtime",
+    "word_count": 1445,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/overview.mdx",
+    "title": "LangChain overview",
+    "word_count": 1762,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/models.mdx",
+    "title": "Models",
+    "word_count": 9592,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/knowledge-base.mdx",
+    "title": "Build a semantic search engine with LangChain",
+    "word_count": 2723,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/guardrails.mdx",
+    "title": "Guardrails",
+    "word_count": 2383,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/studio.mdx",
+    "title": "LangSmith Studio",
+    "word_count": 34,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/install.mdx",
+    "title": "Install LangChain",
+    "word_count": 291,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/event-streaming.mdx",
+    "title": "Event streaming",
+    "word_count": 2186,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/structured-output.mdx",
+    "title": "Structured output",
+    "word_count": 4822,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/tools.mdx",
+    "title": "Tools",
+    "word_count": 5786,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/ui.mdx",
+    "title": "Agent Chat UI",
+    "word_count": 138,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/human-in-the-loop.mdx",
+    "title": "Human-in-the-loop",
+    "word_count": 2965,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/component-architecture.mdx",
+    "title": "Component architecture",
+    "word_count": 556,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/streaming.mdx",
+    "title": "Streaming",
+    "word_count": 5225,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/deploy.mdx",
+    "title": "Deployment",
+    "word_count": 233,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/get-help.mdx",
+    "title": "Get help",
+    "word_count": 192,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/messages.mdx",
+    "title": "Messages",
+    "word_count": 5742,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/observability.mdx",
+    "title": "LangSmith Observability",
+    "word_count": 499,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/short-term-memory.mdx",
+    "title": "Short-term memory",
+    "word_count": 4321,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/long-term-memory.mdx",
+    "title": "Long-term memory",
+    "word_count": 444,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/agents.mdx",
+    "title": "Agents",
+    "word_count": 1916,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/quickstart.mdx",
+    "title": "Quickstart",
+    "word_count": 5062,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/mcp.mdx",
+    "title": "Model Context Protocol (MCP)",
+    "word_count": 4501,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/philosophy.mdx",
+    "title": "Philosophy",
+    "word_count": 1225,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/sql-agent.mdx",
+    "title": "Build a SQL agent",
+    "word_count": 2363,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/context-engineering.mdx",
+    "title": "Context engineering in agents",
+    "word_count": 6726,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/deep-agent-from-scratch.mdx",
+    "title": "Build a data analysis agent from scratch",
+    "word_count": 1898,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/middleware/overview.mdx",
+    "title": "Overview",
+    "word_count": 537,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/middleware/built-in.mdx",
+    "title": "Prebuilt middleware",
+    "word_count": 11392,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/middleware/custom.mdx",
+    "title": "Custom middleware",
+    "word_count": 4992,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/open-ended-generative-ui.mdx",
+    "title": "Open-ended generative UI",
+    "word_count": 407,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/overview.mdx",
+    "title": "Overview",
+    "word_count": 1215,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/join-rejoin.mdx",
+    "title": "Join & rejoin streams",
+    "word_count": 1060,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/branching-chat.mdx",
+    "title": "Branching chat",
+    "word_count": 1005,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/declarative-generative-ui.mdx",
+    "title": "Declarative generative UI",
+    "word_count": 1568,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/reasoning-tokens.mdx",
+    "title": "Reasoning tokens",
+    "word_count": 1143,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/structured-output.mdx",
+    "title": "Structured output",
+    "word_count": 1239,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/message-queues.mdx",
+    "title": "Message queues",
+    "word_count": 1379,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/headless-tools.mdx",
+    "title": "Headless tools",
+    "word_count": 1568,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/human-in-the-loop.mdx",
+    "title": "Human-in-the-Loop",
+    "word_count": 2501,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/markdown-messages.mdx",
+    "title": "Markdown messages",
+    "word_count": 1164,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/controlled-generative-ui.mdx",
+    "title": "Controlled generative UI",
+    "word_count": 550,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/generative-ui-overview.mdx",
+    "title": "Generative UI overview",
+    "word_count": 809,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/tool-calling.mdx",
+    "title": "Tool calling",
+    "word_count": 1252,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/time-travel.mdx",
+    "title": "Time travel",
+    "word_count": 1652,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/integrations/openui.mdx",
+    "title": "OpenUI",
+    "word_count": 3272,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/integrations/overview.mdx",
+    "title": "Overview",
+    "word_count": 417,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/integrations/assistant-ui.mdx",
+    "title": "assistant-ui",
+    "word_count": 632,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/integrations/ai-elements.mdx",
+    "title": "AI Elements",
+    "word_count": 527,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/frontend/integrations/copilotkit.mdx",
+    "title": "CopilotKit",
+    "word_count": 2607,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/test/evals.mdx",
+    "title": "Agent Evals",
+    "word_count": 2429,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/test/index.mdx",
+    "title": "Test",
+    "word_count": 256,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/test/integration-testing.mdx",
+    "title": "Integration testing",
+    "word_count": 1614,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/test/unit-testing.mdx",
+    "title": "Unit testing",
+    "word_count": 1566,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/INVALID_TOOL_RESULTS.mdx",
+    "title": "INVALID_TOOL_RESULTS",
+    "word_count": 249,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/MODEL_NOT_FOUND.mdx",
+    "title": "MODEL_NOT_FOUND",
+    "word_count": 111,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/MODEL_AUTHENTICATION.mdx",
+    "title": "MODEL_AUTHENTICATION",
+    "word_count": 140,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/OUTPUT_PARSING_FAILURE.mdx",
+    "title": "OUTPUT_PARSING_FAILURE",
+    "word_count": 97,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/MODEL_RATE_LIMIT.mdx",
+    "title": "MODEL_RATE_LIMIT",
+    "word_count": 152,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/MESSAGE_COERCION_FAILURE.mdx",
+    "title": "MESSAGE_COERCION_FAILURE",
+    "word_count": 198,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/errors/INVALID_PROMPT_INPUT.mdx",
+    "title": "INVALID_PROMPT_INPUT",
+    "word_count": 288,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/skills-sql-assistant.mdx",
+    "title": "Build a SQL assistant with on-demand skills",
+    "word_count": 6660,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/handoffs.mdx",
+    "title": "Handoffs",
+    "word_count": 3151,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/router.mdx",
+    "title": "Router",
+    "word_count": 976,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/subagents.mdx",
+    "title": "Subagents",
+    "word_count": 3338,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/subagents-personal-assistant.mdx",
+    "title": "Build a personal assistant with subagents",
+    "word_count": 6411,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/index.mdx",
+    "title": "Multi-agent",
+    "word_count": 1682,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/handoffs-customer-support.mdx",
+    "title": "Build customer support with handoffs",
+    "word_count": 5121,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/skills.mdx",
+    "title": "Skills",
+    "word_count": 691,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/custom-workflow.mdx",
+    "title": "Custom workflow",
+    "word_count": 1459,
+    "source": "langchain"
+  },
+  {
+    "path": "langchain/multi-agent/router-knowledge-base.mdx",
+    "title": "Build a multi-source knowledge base with routing",
+    "word_count": 5554,
+    "source": "langchain"
+  },
+  {
+    "path": "huggingface/chat_templating_multimodal.md",
+    "title": "Multimodal chat templates",
+    "word_count": 1341,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/optimizers.md",
+    "title": "Optimizers and schedulers",
+    "word_count": 1699,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/accelerator_selection.md",
+    "title": "Accelerator selection",
+    "word_count": 406,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/feature_extractors.md",
+    "title": "Feature extractors",
+    "word_count": 1010,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_train_cpu.md",
+    "title": "CPU",
+    "word_count": 1272,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/pr_checks.md",
+    "title": "Pull request checks",
+    "word_count": 1811,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/testing.md",
+    "title": "Writing model tests",
+    "word_count": 2529,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perplexity.md",
+    "title": "Perplexity of fixed-length models",
+    "word_count": 1201,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/chat_templating.md",
+    "title": "Chat templates",
+    "word_count": 1620,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/processors.md",
+    "title": "Processors",
+    "word_count": 634,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/kernels.md",
+    "title": "Kernels for training",
+    "word_count": 362,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/padding_free.md",
+    "title": "Padding-free training",
+    "word_count": 800,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/multimodal_processing.md",
+    "title": "Multimodal processors",
+    "word_count": 550,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/chat_response_parsing.md",
+    "title": "Response Parsing",
+    "word_count": 4566,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/continuous_batching.md",
+    "title": "Continuous batching",
+    "word_count": 3129,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/run_scripts.md",
+    "title": "Training scripts",
+    "word_count": 902,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/fsdp.md",
+    "title": "FSDP2",
+    "word_count": 821,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/peft.md",
+    "title": "Parameter-efficient fine-tuning",
+    "word_count": 1157,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/fusion_mapping.md",
+    "title": "Fusion mapping (experimental feature)",
+    "word_count": 546,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_train_gaudi.md",
+    "title": "Intel Gaudi",
+    "word_count": 344,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/add_audio_processing_components.md",
+    "title": "Add audio processing components",
+    "word_count": 630,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/experts_interface.md",
+    "title": "Experts backends",
+    "word_count": 1481,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/installation.md",
+    "title": "Installation",
+    "word_count": 998,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/add_new_model.md",
+    "title": "Legacy model contribution",
+    "word_count": 5203,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/training.md",
+    "title": "Fine-tuning",
+    "word_count": 812,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/exporters_extend.md",
+    "title": "Extending the exporters",
+    "word_count": 1141,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/generation_strategies.md",
+    "title": "Generation strategies",
+    "word_count": 2372,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/model_output_tracing.md",
+    "title": "Tracing model intermediate outputs",
+    "word_count": 728,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/continuous_batching_architecture.md",
+    "title": "Continuous batching architecture",
+    "word_count": 1841,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/image_processors.md",
+    "title": "Image processors",
+    "word_count": 1524,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/tokenizer_summary.md",
+    "title": "Tokenization algorithms",
+    "word_count": 1270,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/tensor_parallelism.md",
+    "title": "Tensor parallelism for training",
+    "word_count": 482,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/accelerate.md",
+    "title": "Accelerate",
+    "word_count": 504,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/custom_tokenizers.md",
+    "title": "Customizing tokenizers",
+    "word_count": 750,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/cache_explanation.md",
+    "title": "How caching works",
+    "word_count": 1095,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_torch_compile.md",
+    "title": "torch.compile for inference",
+    "word_count": 462,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/trainer_customize.md",
+    "title": "Subclassing Trainer methods",
+    "word_count": 623,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/torch_compile.md",
+    "title": "torch.compile for training",
+    "word_count": 337,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/kv_cache.md",
+    "title": "Cache strategies",
+    "word_count": 2568,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/backbones.md",
+    "title": "Backbones",
+    "word_count": 787,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/deepspeed_alst.md",
+    "title": "Ulysses sequence parallelism",
+    "word_count": 888,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/hpo_train.md",
+    "title": "Hyperparameter search",
+    "word_count": 565,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/fast_tokenizers.md",
+    "title": "Tokenizers",
+    "word_count": 1553,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_infer_gpu_multi.md",
+    "title": "Tensor parallelism for inference",
+    "word_count": 1795,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/assisted_decoding.md",
+    "title": "Assisted decoding",
+    "word_count": 1135,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/paged_attention.md",
+    "title": "Paged attention",
+    "word_count": 590,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_train_special.md",
+    "title": "Apple Silicon",
+    "word_count": 510,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/llm_tutorial.md",
+    "title": "Text generation",
+    "word_count": 1753,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/monkey_patching.md",
+    "title": "Monkey patching (experimental feature)",
+    "word_count": 2198,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/heterogeneous_configurations.md",
+    "title": "Heterogeneous model configurations",
+    "word_count": 936,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/debugging.md",
+    "title": "Debugging",
+    "word_count": 2054,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/models_timeline.md",
+    "title": "Models timeline",
+    "word_count": 201,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/grad_checkpointing.md",
+    "title": "Gradient checkpointing",
+    "word_count": 281,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/pipeline_webserver.md",
+    "title": "Web server inference",
+    "word_count": 969,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/exporters.md",
+    "title": "Exporters",
+    "word_count": 3633,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/model_memory_anatomy.md",
+    "title": "GPU memory usage",
+    "word_count": 771,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/trainer_recipes.md",
+    "title": "Trainer features",
+    "word_count": 1449,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/pipeline_gradio.md",
+    "title": "Machine learning apps",
+    "word_count": 275,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/conversations.md",
+    "title": "Chat basics",
+    "word_count": 961,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/custom_models.md",
+    "title": "Customizing models",
+    "word_count": 1463,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/trainer.md",
+    "title": "Trainer",
+    "word_count": 252,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/troubleshooting.md",
+    "title": "Troubleshoot",
+    "word_count": 1082,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/trainer_callbacks.md",
+    "title": "Callbacks",
+    "word_count": 707,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/add_new_pipeline.md",
+    "title": "Adding a new pipeline",
+    "word_count": 1248,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/chat_templating_writing.md",
+    "title": "Writing a chat template",
+    "word_count": 2483,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/add_vision_processing_components.md",
+    "title": "Add vision processing components",
+    "word_count": 1344,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/models.md",
+    "title": "Loading models",
+    "word_count": 1612,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/deepspeed.md",
+    "title": "DeepSpeed ZeRO",
+    "word_count": 1220,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/quicktour.md",
+    "title": "Quickstart",
+    "word_count": 1573,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/video_processors.md",
+    "title": "Video Processor",
+    "word_count": 775,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/how_to_hack_models.md",
+    "title": "Customizing model components",
+    "word_count": 815,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/auto_docstring.md",
+    "title": "Auto-generating docstrings",
+    "word_count": 2374,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/chat_content_patterns.md",
+    "title": "Chat message patterns",
+    "word_count": 810,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/contributing.md",
+    "title": "Contribute to \ud83e\udd17 Transformers",
+    "word_count": 2074,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/pipeline_tutorial.md",
+    "title": "Pipeline",
+    "word_count": 2113,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/index.md",
+    "title": "Transformers",
+    "word_count": 589,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/mixed_precision_training.md",
+    "title": "Mixed precision training",
+    "word_count": 464,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/serialization.md",
+    "title": "Exporting to production",
+    "word_count": 557,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/llm_tutorial_optimization.md",
+    "title": "Optimizing LLMs for Speed and Memory",
+    "word_count": 6381,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/attention_interface.md",
+    "title": "Attention backends",
+    "word_count": 2252,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/optimization_overview.md",
+    "title": "Overview",
+    "word_count": 829,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/community.md",
+    "title": "Community",
+    "word_count": 1497,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/generation_features.md",
+    "title": "Generation features",
+    "word_count": 577,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/modular_transformers.md",
+    "title": "Add a model with modular transformers",
+    "word_count": 2849,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/expert_parallelism.md",
+    "title": "Expert parallelism",
+    "word_count": 290,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/glossary.md",
+    "title": "Glossary",
+    "word_count": 3868,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/gguf.md",
+    "title": "GGUF",
+    "word_count": 332,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_hardware.md",
+    "title": "Building a GPU workstation",
+    "word_count": 473,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/grad_accumulation.md",
+    "title": "Gradient accumulation",
+    "word_count": 496,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/philosophy.md",
+    "title": "Philosophy",
+    "word_count": 762,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/modeling_rules.md",
+    "title": "Model structure rules",
+    "word_count": 6190,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/data_collators.md",
+    "title": "Data collators",
+    "word_count": 551,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/weightconverter.md",
+    "title": "Dynamic weight loading",
+    "word_count": 4458,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/model_sharing.md",
+    "title": "Sharing",
+    "word_count": 816,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/ddp.md",
+    "title": "DDP",
+    "word_count": 573,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/perf_train_gpu_many.md",
+    "title": "Parallelism methods",
+    "word_count": 1276,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/chat_extras.md",
+    "title": "Tool use",
+    "word_count": 1267,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/configuration.md",
+    "title": "Configuration",
+    "word_count": 185,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/quantization.md",
+    "title": "Quantization",
+    "word_count": 293,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/output.md",
+    "title": "Model outputs",
+    "word_count": 543,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/feature_extractor.md",
+    "title": "Feature extractor",
+    "word_count": 175,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/processors.md",
+    "title": "Processors",
+    "word_count": 800,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/logging.md",
+    "title": "Logging",
+    "word_count": 578,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/continuous_batching.md",
+    "title": "Continuous batching",
+    "word_count": 172,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/peft.md",
+    "title": "PEFT",
+    "word_count": 180,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/callback.md",
+    "title": "Callbacks",
+    "word_count": 409,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/pipelines.md",
+    "title": "# On GTX 970",
+    "word_count": 1750,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/executorch.md",
+    "title": "ExecuTorch",
+    "word_count": 282,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/video_processor.md",
+    "title": "Video processor",
+    "word_count": 785,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/optimizer_schedules.md",
+    "title": "Optimization",
+    "word_count": 239,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/backbones.md",
+    "title": "Backbone",
+    "word_count": 255,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/data_collator.md",
+    "title": "Data collator",
+    "word_count": 249,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/exporters.md",
+    "title": "Exporters",
+    "word_count": 216,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/image_processor.md",
+    "title": "Image processor",
+    "word_count": 535,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/trainer.md",
+    "title": "Trainer",
+    "word_count": 325,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/deepspeed.md",
+    "title": "DeepSpeed",
+    "word_count": 221,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/model.md",
+    "title": "Models",
+    "word_count": 246,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/text_generation.md",
+    "title": "Generation",
+    "word_count": 263,
+    "source": "huggingface"
+  },
+  {
+    "path": "huggingface/main_classes/tokenizer.md",
+    "title": "Tokenizer",
+    "word_count": 700,
+    "source": "huggingface"
+  },
+  {
+    "path": "pytorch/recipes/regional_compilation.py",
+    "title": "Reducing torch.compile cold start compilation time with regional compilation",
+    "word_count": 881,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_compile_caching_configuration_tutorial.rst",
+    "title": "Compile Time Caching Configuration",
+    "word_count": 650,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/distributed_rpc_profiling.rst",
+    "title": "Profiling PyTorch RPC-Based Workloads",
+    "word_count": 22,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/xeon_run_cpu.rst",
+    "title": "Optimizing CPU Performance on Intel\u00ae Xeon\u00ae with run_cpu Script",
+    "word_count": 2076,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/compiling_optimizer_lr_scheduler.py",
+    "title": "(beta) Running the compiled optimizer with an LR Scheduler",
+    "word_count": 504,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/zero_redundancy_optimizer.rst",
+    "title": "Shard Optimizer States with ZeroRedundancyOptimizer",
+    "word_count": 649,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/distributed_async_checkpoint_recipe.rst",
+    "title": "Asynchronous Saving with Distributed Checkpoint (DCP)",
+    "word_count": 1735,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_logs.py",
+    "title": "(beta) Using TORCH_LOGS python API with torch.compile",
+    "word_count": 329,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/mobile_perf.rst",
+    "title": "Pytorch Mobile Performance Recipes",
+    "word_count": 29,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/regional_aot.py",
+    "title": "Reducing AoT cold start compilation time with regional compilation",
+    "word_count": 992,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/compiling_optimizer.rst",
+    "title": "(beta) Compiling the optimizer with torch.compile",
+    "word_count": 311,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/model_preparation_ios.rst",
+    "title": "Model Preparation for iOS Recipe",
+    "word_count": 30,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_compile_user_defined_triton_kernel_tutorial.py",
+    "title": "Using User-Defined Triton Kernels with ``torch.compile``",
+    "word_count": 1468,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_compiler_set_stance_tutorial.py",
+    "title": "Dynamic Compilation Control with ``torch.compiler.set_stance``",
+    "word_count": 785,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/android_native_app_with_custom_op.rst",
+    "title": "Making Native Android Application that uses PyTorch prebuilt libraries",
+    "word_count": 34,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/debug_mode_tutorial.py",
+    "title": "DebugMode: Recording Dispatched Operations and Numerical Debugging",
+    "word_count": 1030,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_export_challenges_solutions.rst",
+    "title": "Demonstration of torch.export flow, common challenges and the solutions to address them",
+    "word_count": 1792,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/distributed_device_mesh.rst",
+    "title": "Getting Started with DeviceMesh",
+    "word_count": 892,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/intel_neural_compressor_for_pytorch.rst",
+    "title": "Ease-of-use quantization for PyTorch with Intel\u00ae Neural Compressor",
+    "word_count": 678,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_compile_torch_function_modes.py",
+    "title": "(beta) Utilizing Torch Function modes with torch.compile",
+    "word_count": 353,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/distributed_comm_debug_mode.rst",
+    "title": "Getting Started with ``CommDebugMode``",
+    "word_count": 721,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/mobile_interpreter.rst",
+    "title": "(beta) Efficient mobile interpreter in Android and iOS",
+    "word_count": 33,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/profile_with_itt.rst",
+    "title": "Profiling PyTorch workloads with The Instrumentation and Tracing Technology (ITT) API",
+    "word_count": 1338,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_export_aoti_python.py",
+    "title": "``torch.export`` AOTInductor Tutorial for Python runtime (Beta)",
+    "word_count": 1192,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/torch_compile_caching_tutorial.rst",
+    "title": "Compile Time Caching in ``torch.compile``",
+    "word_count": 585,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/script_optimized.rst",
+    "title": "Script and Optimize for Mobile Recipe",
+    "word_count": 32,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/ptmobile_recipes_summary.rst",
+    "title": "Summary of PyTorch Mobile Recipes",
+    "word_count": 30,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/model_preparation_android.rst",
+    "title": "Model Preparation for Android Recipe",
+    "word_count": 30,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/loading_data_recipe.rst",
+    "title": "Loading data in PyTorch",
+    "word_count": 23,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/distributed_checkpoint_recipe.rst",
+    "title": "Getting Started with Distributed Checkpoint (DCP)",
+    "word_count": 1423,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/recipes/foreach_map.py",
+    "title": "Explicit horizontal fusion with foreach_map and torch.compile",
+    "word_count": 783,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/colab.rst",
+    "title": "Running Tutorials in Google Colab",
+    "word_count": 588,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/template_tutorial.py",
+    "title": "Template Tutorial",
+    "word_count": 277,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/saving_loading_models.py",
+    "title": "Saving and Loading Models",
+    "word_count": 2543,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/bettertransformer_tutorial.rst",
+    "title": "Fast Transformer Inference with Better Transformer",
+    "word_count": 24,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/audio_feature_extractions_tutorial.rst",
+    "title": "Audio Feature Extractions",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/serving_tutorial.py",
+    "title": "Serve PyTorch models at scale with Ray Serve",
+    "word_count": 1640,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/deeplabv3_on_ios.rst",
+    "title": "Image Segmentation DeepLabV3 on iOS",
+    "word_count": 30,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/fgsm_tutorial.py",
+    "title": "Adversarial Example Generation",
+    "word_count": 2521,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/transfer_learning_tutorial.py",
+    "title": "Transfer Learning for Computer Vision Tutorial",
+    "word_count": 1389,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/ddp_series_fault_tolerance.rst",
+    "title": "Fault-tolerant Distributed Training with ``torchrun``",
+    "word_count": 827,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/hyperparameter_tuning_tutorial.py",
+    "title": "Hyperparameter tuning using Ray Tune",
+    "word_count": 2709,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/finetuning_torchvision_models_tutorial.rst",
+    "title": "Finetuning Torchvision Models",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/ddp_series_multigpu.rst",
+    "title": "Multi GPU training with DDP",
+    "word_count": 967,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/torchtext_custom_dataset_tutorial.rst",
+    "title": "Preprocess custom text dataset using torchtext",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/distributed_training_with_ray_tutorial.py",
+    "title": "Distributed training at scale with PyTorch and Ray Train",
+    "word_count": 3089,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/audio_feature_augmentation_tutorial.rst",
+    "title": "Audio Feature Augmentation",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/translation_transformer.rst",
+    "title": "Language Translation with ``nn.Transformer`` and torchtext",
+    "word_count": 24,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/audio_resampling_tutorial.rst",
+    "title": "Audio Resampling",
+    "word_count": 28,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/nn_tutorial.py",
+    "title": "What is `torch.nn` *really*?",
+    "word_count": 4438,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/deep_learning_60min_blitz.rst",
+    "title": "Deep Learning with PyTorch: A 60 Minute Blitz",
+    "word_count": 214,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/ddp_series_theory.rst",
+    "title": "What is Distributed Data Parallel (DDP)",
+    "word_count": 345,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/text_sentiment_ngrams_tutorial.rst",
+    "title": "Text classification with the torchtext library",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/mosaic_memory_profiling_tutorial.py",
+    "title": "Mosaic: Memory Profiling for PyTorch",
+    "word_count": 4277,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/data_loading_tutorial.py",
+    "title": "Writing Custom Datasets, DataLoaders and Transforms",
+    "word_count": 1869,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/understanding_leaf_vs_nonleaf_tutorial.py",
+    "title": "Understanding requires_grad, retain_grad, Leaf, and Non-leaf Tensors",
+    "word_count": 1774,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/introyt.rst",
+    "title": "Introduction to PyTorch - YouTube Series",
+    "word_count": 22,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/profiler.py",
+    "title": "Profiling your PyTorch Module",
+    "word_count": 1230,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/audio_data_augmentation_tutorial.rst",
+    "title": "Audio Data Augmentation",
+    "word_count": 25,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/deeplabv3_on_android.rst",
+    "title": "Image Segmentation DeepLabV3 on Android",
+    "word_count": 30,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/hta_trace_diff_tutorial.rst",
+    "title": "Trace Diff using Holistic Trace Analysis",
+    "word_count": 356,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/dist_overview.rst",
+    "title": "PyTorch Distributed Overview",
+    "word_count": 528,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/former_torchies_tutorial.rst",
+    "title": "former_torchies_tutorial.rst",
+    "word_count": 35,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/audio_datasets_tutorial.rst",
+    "title": "Audio Datasets",
+    "word_count": 24,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/t5_tutoria.rst",
+    "title": "T5-Base Model for Summarization, Sentiment Classification, and Translation",
+    "word_count": 26,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/dcgan_faces_tutorial.py",
+    "title": "DCGAN Tutorial",
+    "word_count": 4217,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/chatbot_tutorial.py",
+    "title": "Chatbot Tutorial",
+    "word_count": 6837,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/pytorch_with_examples.rst",
+    "title": "Learning PyTorch with Examples",
+    "word_count": 1294,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/ddp_series_intro.rst",
+    "title": "Distributed Data Parallel in PyTorch - Video Tutorials",
+    "word_count": 256,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/hta_intro_tutorial.rst",
+    "title": "Introduction to Holistic Trace Analysis",
+    "word_count": 1932,
+    "source": "pytorch"
+  },
+  {
+    "path": "pytorch/beginner/knowledge_distillation_tutorial.py",
+    "title": "Knowledge Distillation Tutorial",
+    "word_count": 4575,
+    "source": "pytorch"
+  }
+]

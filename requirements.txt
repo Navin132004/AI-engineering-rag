@@ -1,0 +1,5 @@
+%%writefile /content/ai_engineering_docs/requirements.txt
+tiktoken
+langchain-text-splitters
+rank-bm25
+numpy
