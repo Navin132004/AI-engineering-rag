@@ -1,4 +1,3 @@
-%%writefile /content/ai_engineering_docs/.github/workflows/rag-eval.yml
 name: RAG Evaluation
 
 on:
@@ -21,7 +20,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run RAG evaluation
         run: python eval.py
