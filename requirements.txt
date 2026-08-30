@@ -1,5 +1,5 @@
-%%writefile /content/ai_engineering_docs/requirements.txt
-tiktoken
-langchain-text-splitters
-rank-bm25
+rank_bm25
+faiss-cpu
+scikit-learn
 numpy
+sentence-transformers
